@@ -6,7 +6,7 @@
         "202f1623-ed9a-4248-9e01-e0a2d728f43a": {
           "type": "shopify:\/\/apps\/my-new-app2\/blocks\/app-block\/56107c45-9ed3-426f-b512-7f56ec9d6805",
           "settings": {
-            "heading": "Cute Puppy Gallery",
+            "heading": "愛らしい西洋犬画廊",
             "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
           }
         }
