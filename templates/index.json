@@ -1,27 +1,9 @@
 {
   "sections": {
-    "16668562251a9efb73": {
+    "1667280662144b8a5b": {
       "type": "apps",
       "blocks": {
-        "202f1623-ed9a-4248-9e01-e0a2d728f43a": {
-          "type": "shopify:\/\/apps\/my-new-app2\/blocks\/app-block\/56107c45-9ed3-426f-b512-7f56ec9d6805",
-          "settings": {
-            "heading": "愛らしい西洋犬画廊",
-            "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
-          }
-        }
-      },
-      "block_order": [
-        "202f1623-ed9a-4248-9e01-e0a2d728f43a"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "1667200917e3d602ce": {
-      "type": "apps",
-      "blocks": {
-        "c430d1f3-059f-49fa-b6a7-23f4676f958f": {
+        "848a3ac0-4611-4460-b548-b2569bee106d": {
           "type": "shopify:\/\/apps\/luxury-marketplace-app\/blocks\/app-block\/ac6d1acf-2ea8-496a-92d9-55d2d35c28da",
           "settings": {
             "heading": "Cute Puppy Gallery",
@@ -30,7 +12,7 @@
         }
       },
       "block_order": [
-        "c430d1f3-059f-49fa-b6a7-23f4676f958f"
+        "848a3ac0-4611-4460-b548-b2569bee106d"
       ],
       "settings": {
         "include_margins": true
@@ -38,7 +20,6 @@
     }
   },
   "order": [
-    "16668562251a9efb73",
-    "1667200917e3d602ce"
+    "1667280662144b8a5b"
   ]
 }
