@@ -3,7 +3,7 @@
     "1667280662144b8a5b": {
       "type": "apps",
       "blocks": {
-        "c4b082cd-946f-43b0-838b-8d749d0f556b": {
+        "65718198-3041-4e82-8b5e-0c490afc83a1": {
           "type": "shopify:\/\/apps\/luxury-marketplace-app\/blocks\/app-block\/ac6d1acf-2ea8-496a-92d9-55d2d35c28da",
           "settings": {
             "heading": "Count down",
@@ -12,7 +12,7 @@
         }
       },
       "block_order": [
-        "c4b082cd-946f-43b0-838b-8d749d0f556b"
+        "65718198-3041-4e82-8b5e-0c490afc83a1"
       ],
       "settings": {
         "include_margins": true
