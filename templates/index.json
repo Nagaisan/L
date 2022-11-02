@@ -1,13 +1,25 @@
 {
   "sections": {
-    "1667280662144b8a5b": {
+    "16673656090566c976": {
       "type": "apps",
+      "blocks": {
+        "7303febc-1fa6-490e-b04c-77adfa1580e4": {
+          "type": "shopify:\/\/apps\/luxury-marketplace-app\/blocks\/app-block\/ac6d1acf-2ea8-496a-92d9-55d2d35c28da",
+          "settings": {
+            "heading": "Count down",
+            "description": "A simple app block that shows a grid of images that can be customized by the merchant. Each image can be selected to show a popup with the full-sized image."
+          }
+        }
+      },
+      "block_order": [
+        "7303febc-1fa6-490e-b04c-77adfa1580e4"
+      ],
       "settings": {
         "include_margins": true
       }
     }
   },
   "order": [
-    "1667280662144b8a5b"
+    "16673656090566c976"
   ]
 }
