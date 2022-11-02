@@ -2,8 +2,14 @@
   "sections": {
     "1667280662144b8a5b": {
       "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "166736083175beca73": {
+      "type": "apps",
       "blocks": {
-        "b1b1e6ec-9742-4e0e-8bc3-2264dfd4ac78": {
+        "001d21d9-5723-46f2-ab2a-7e2905f69b1c": {
           "type": "shopify:\/\/apps\/luxury-marketplace-app\/blocks\/app-block\/ac6d1acf-2ea8-496a-92d9-55d2d35c28da",
           "settings": {
             "heading": "Count down",
@@ -12,7 +18,7 @@
         }
       },
       "block_order": [
-        "b1b1e6ec-9742-4e0e-8bc3-2264dfd4ac78"
+        "001d21d9-5723-46f2-ab2a-7e2905f69b1c"
       ],
       "settings": {
         "include_margins": true
@@ -20,6 +26,7 @@
     }
   },
   "order": [
-    "1667280662144b8a5b"
+    "1667280662144b8a5b",
+    "166736083175beca73"
   ]
 }
